@@ -29,6 +29,7 @@
 
 
 ![HyeSeong's github stats](https://github-readme-stats.vercel.app/api?username=hyeseong-dev&show_icons=true&theme=dark)
+![HyeSeong's github stats](https://github-readme-stats.vercel.app/api?username=hyeseong-dev&show_icons=true)
 
 <!--
 **hyeseong-dev/hyeseong-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
