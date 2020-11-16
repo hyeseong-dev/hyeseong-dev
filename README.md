@@ -1,6 +1,6 @@
 # HyeSeong Lee 👨‍💻
 
-[![Twitter Badge](https://img.shields.io/badge/-@hyeseong43-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hyeseong43)](https://twitter.com/hyeseong4300) 
+[![Twitter Badge](https://img.shields.io/badge/-@hyeseongDev-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hyeseongDev)](https://twitter.com/hyeseong4300) 
 [![Linkedin Badge](https://img.shields.io/badge/-hyeseong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyeseong43/)](https://www.linkedin.com/in/hyeseong43/) 
 [![Medium Badge](https://img.shields.io/badge/-@hyeseong-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@hyeseong43/)](https://medium.com/@hyeseong43/)
 [![Donate](https://img.shields.io/badge/Support-%24-blue)](https://www.paypal.me/hyeseong43)
@@ -17,7 +17,6 @@
 
 - 🏄‍ Community guy who loves being involved in communities and help students grow
 - 😄 I will usually be a part of hackathons as a #Mentor, #Participants and a #Organiser
-- 🔭 I am currently an MSFT Learn Ambassador, [Mozillian](https://mozillians.org/en-US/u/tanejasaksham/), IBM ZAmbassador, Ex-Google DSC Lead and been a part of many communities and programs by a big force
 - 🌱 I love to speak at public events and have been a speaker at many events. I organise Workshops, Webinars etc to help student Communitiess
 - 👯 And Many More...
 
@@ -29,10 +28,10 @@
 - 💬 Ping Me about #cloud, #RPA, #CommunityOps, #DevRel, #speaking opportunity, #Marketing #CampusOps and anything you like
 
 
-![HyeSeong's github stats](https://github-readme-stats.vercel.app/api?username=osori-magu&show_icons=true&theme=dark)
+![HyeSeong's github stats](https://github-readme-stats.vercel.app/api?username=hyeseong-dev&show_icons=true&theme=dark)
 
 <!--
-**hyeseong43/hyeseong43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hyeseong-dev/hyeseong-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 🤔
 
