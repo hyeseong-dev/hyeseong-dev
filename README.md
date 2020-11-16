@@ -1,6 +1,6 @@
 # HyeSeong Lee 👨‍💻
 
-[![Twitter Badge](https://img.shields.io/badge/-@hyeseongDev-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hyeseongDev)](https://twitter.com/hyeseong4300) 
+[![Twitter Badge](https://img.shields.io/badge/-@hyeseongDev-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hyeseongDev)](https://twitter.com/hyeseong-dev) 
 [![Linkedin Badge](https://img.shields.io/badge/-hyeseong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyeseong43/)](https://www.linkedin.com/in/hyeseong43/) 
 [![Medium Badge](https://img.shields.io/badge/-@hyeseong-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@hyeseong43/)](https://medium.com/@hyeseong43/)
 [![Donate](https://img.shields.io/badge/Support-%24-blue)](https://www.paypal.me/hyeseong43)
