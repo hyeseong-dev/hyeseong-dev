@@ -17,7 +17,7 @@
 
 - 🏄‍ Community guy who loves being involved in communities and wants to be an awesome full stack developer in the future.
 - 😄 I usually enjoy reading some books and meditating before go to sleep. 
-- 🌱 I love to speak at public events and have been a speaker at many events. I organise Workshops, Webinars etc to help student Communitiess
+- 🌱 I love going to public events and have been an enthusiastic audience at many events. I am a good supporter and teamplayer as well.
 - 👯 And Many More...
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
