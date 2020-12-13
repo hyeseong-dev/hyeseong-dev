@@ -10,13 +10,13 @@
 
 ## Hi there 👋,
 
-### I'm HyeSeong Lee, studying at 👨‍💻 Korea Institute of Science and Technology . I am a tech and management enthusiast, Would love to be a cloud evangelist and see myself as a Product / Program Learner.
+### I'm HyeSeong Lee, studying at 👨‍💻 Wecode Bootcamp in Korea . I am a tech and management enthusiast, Would love to be a cloud evangelist and see myself as a Product / Program Learner.
 -------
   
 ## 🧐 About
 
 - 🏄‍ Community guy who loves being involved in communities and wants to be an awesome full stack developer in the future.
-- 😄 I usually enjoy reading some books and meditating before go to sleep. 
+- 😄 I usually enjoy reading some books and meditating before go to sleep or get up in the morning. 
 - 🌱 I love going to public events and have been an enthusiastic audience at many events. I am a good supporter and teamplayer as well.
 - 👯 And Many More...
 
