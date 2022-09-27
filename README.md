@@ -10,7 +10,7 @@
 
 ## Hi there 👋,
 
-### I'm HyeSeong Lee, studying at 👨‍💻 Wecode Bootcamp in Korea . I am a tech and management enthusiast, Would love to be a cloud evangelist and see myself as a Product / Program Learner.
+### I'm HyeSeong Lee. I am a tech and management enthusiast, Would love to be a cloud evangelist and see myself as a Product / Program Learner.
 -------
   
 ## 🧐 About
